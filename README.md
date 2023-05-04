@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Paul4k
-- 👀 I’m interested in coding games
-- 🌱 I’m currently learning C#
 - 📫 How to reach me: Paul4k#8248
 
 <!---
